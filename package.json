@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://CrossfellAB.github.io/obesity-patientjourney-app",
+  "homepage": "https://crossfellab.github.io/Obesity-UK-Patient-Journey",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
