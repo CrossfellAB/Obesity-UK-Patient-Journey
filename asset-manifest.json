@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/obesity-patientjourney-app/static/css/main.9c548e18.css",
-    "main.js": "/obesity-patientjourney-app/static/js/main.cc88200f.js",
-    "static/js/453.bfc736d4.chunk.js": "/obesity-patientjourney-app/static/js/453.bfc736d4.chunk.js",
-    "index.html": "/obesity-patientjourney-app/index.html",
-    "main.9c548e18.css.map": "/obesity-patientjourney-app/static/css/main.9c548e18.css.map",
-    "main.cc88200f.js.map": "/obesity-patientjourney-app/static/js/main.cc88200f.js.map",
-    "453.bfc736d4.chunk.js.map": "/obesity-patientjourney-app/static/js/453.bfc736d4.chunk.js.map"
+    "main.css": "/Obesity-UK-Patient-Journey/static/css/main.5d266a14.css",
+    "main.js": "/Obesity-UK-Patient-Journey/static/js/main.acb9419c.js",
+    "static/js/453.bfc736d4.chunk.js": "/Obesity-UK-Patient-Journey/static/js/453.bfc736d4.chunk.js",
+    "index.html": "/Obesity-UK-Patient-Journey/index.html",
+    "main.5d266a14.css.map": "/Obesity-UK-Patient-Journey/static/css/main.5d266a14.css.map",
+    "main.acb9419c.js.map": "/Obesity-UK-Patient-Journey/static/js/main.acb9419c.js.map",
+    "453.bfc736d4.chunk.js.map": "/Obesity-UK-Patient-Journey/static/js/453.bfc736d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c548e18.css",
-    "static/js/main.cc88200f.js"
+    "static/css/main.5d266a14.css",
+    "static/js/main.acb9419c.js"
   ]
 }
